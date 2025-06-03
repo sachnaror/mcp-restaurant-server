@@ -38,7 +38,7 @@ This makes it ideal for plugging into larger AI/automation pipelines where struc
 ## 📁 Project Directory
 
 
-'''
+```bash
 
 ├── mcp_server/
 │   ├── requirements.txt
@@ -89,6 +89,7 @@ python manage.py runserver
 ## 🧪 Example Usage (cURL)
 
 ```bash
+
 # Create a new order
 curl -X POST http://localhost:8000/api/orders/ \
      -H "Content-Type: application/json" \
@@ -96,6 +97,7 @@ curl -X POST http://localhost:8000/api/orders/ \
 
 # Get recent orders in last 2 hours
 curl http://localhost:8000/api/orders/recent/?hours=2
+
 ```
 
 ---
