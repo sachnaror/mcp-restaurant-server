@@ -1,12 +1,12 @@
 
-
+'''
  __  __ _____ _____     _____ ____  _   _ _____ ____
 |  \/  | ____|_   _|   | ____|  _ \| | | | ____|  _ \
 | |\/| |  _|   | |_____|  _| | |_) | | | |  _| | | | |
 | |  | | |___  | |_____| |___|  _ <| |_| | |___| |_| |
 |_|  |_|_____| |_|     |_____|_| \_\\___/|_____|____/
 
-
+'''
 # 🍽️ MCP Restaurant Ordering API Server
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
@@ -119,9 +119,9 @@ Base URL: `http://localhost:8000/api/`
 
 ## 📸 Screenshots
 
-<img src="screenshots/11.png" width="600" height="600"/>
+<img src="screenshots/11.png" width="600" height="500"/>
 
-<img src="screenshots/12.png" width="600" height="600"/>
+<img src="screenshots/12.png" width="600" height="500"/>
 
 ---
 
