@@ -33,7 +33,7 @@ Think of it like a food court AI assistant:
 
 This makes it ideal for plugging into larger AI/automation pipelines where structured data, temporal context, and clean APIs matter.
 
-```
+
 
 ## 📁 Project Directory
 
@@ -82,8 +82,9 @@ echo "DEBUG=True" >> .env
 python manage.py migrate
 python manage.py runserver
 
+'''
 
----
+
 
 ## 🧪 Example Usage (cURL)
 
