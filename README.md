@@ -25,9 +25,7 @@ We call this an **MCP server** because it follows the **Model-Context-Protocol**
 Think of it like a food court AI assistant:
 
 🍔 **Model** = What's on the menu
-
 ⏰ **Context** = What's trending now
-
 📡 **Protocol** = How it communicates with you (API)
 
 
@@ -38,8 +36,7 @@ This makes it ideal for plugging into larger AI/automation pipelines where struc
 ## 📁 Project Directory
 
 
-```bash
-
+```
 ├── mcp_server/
 │   ├── requirements.txt
 │   ├── db.sqlite3
@@ -59,12 +56,13 @@ This makes it ideal for plugging into larger AI/automation pipelines where struc
 │   │   ├── settings.py
 │   │   ├── urls.py
 │   │   └── wsgi.py
+```
 
-'''
+---
 
 ## 🚀 Quickstart
 
-```bash
+```
 # 1. Clone the repo
 git clone https://github.com/sachnaror/restaurant-mcp-server.git
 cd restaurant-mcp-server
@@ -82,13 +80,13 @@ echo "DEBUG=True" >> .env
 python manage.py migrate
 python manage.py runserver
 
-'''
+```
 
-
+---
 
 ## 🧪 Example Usage (cURL)
 
-```bash
+```
 
 # Create a new order
 curl -X POST http://localhost:8000/api/orders/ \
