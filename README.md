@@ -38,8 +38,8 @@ This makes it ideal for plugging into larger AI/automation pipelines where struc
 ## 📁 Project Directory
 
 
+'''
 
-```
 ├── mcp_server/
 │   ├── requirements.txt
 │   ├── db.sqlite3
@@ -60,7 +60,7 @@ This makes it ideal for plugging into larger AI/automation pipelines where struc
 │   │   ├── urls.py
 │   │   └── wsgi.py
 
-```
+'''
 
 ## 🚀 Quickstart
 
