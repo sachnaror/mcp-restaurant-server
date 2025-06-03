@@ -81,7 +81,7 @@ echo "DEBUG=True" >> .env
 # 4. Run DB & server
 python manage.py migrate
 python manage.py runserver
-```
+
 
 ---
 
