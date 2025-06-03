@@ -14,6 +14,24 @@ Ideal for integration with any MCP server.
 
 ---
 
+## 🧠 Why MCP Server?
+
+We call this an **MCP server** because it follows the **Model-Context-Protocol** pattern:
+
+- **Model** → The `Order` model defines the data structure (items, status, time).
+- **Context** → Recent queries like `/recent/?hours=2` give contextual insights (e.g., last 2 hours).
+- **Protocol** → RESTful APIs define a structured communication protocol.
+
+Think of it like a food court AI assistant:
+
+🍔 **Model** = What's on the menu
+⏰ **Context** = What's trending now
+📡 **Protocol** = How it communicates with you (API)
+
+This makes it ideal for plugging into larger AI/automation pipelines where structured data, temporal context, and clean APIs matter.
+
+```
+
 ## 📁 Project Directory
 
 ```
