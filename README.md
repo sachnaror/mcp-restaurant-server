@@ -7,8 +7,9 @@
 ![License](https://img.shields.io/badge/license-MIT-orange)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
-Welcome to the **MCP-compatible Restaurant API** built with 🐍 Django + 🛠️ Django REST Framework.
-Simulate customer orders from a dummy restaurant menu and track their **status** in real-time 🟢/🔴.
+Welcome to the **MCP-compatible Restaurant API** built with  Django +  Django REST Framework.
+
+Simulate customer orders from a dummy restaurant menu and track their **status** in real-time .
 Ideal for integration with any MCP server.
 
 ---
