@@ -1,9 +1,10 @@
 
- __  __   ____   _____     ____   ____   _____
-|  \/  | |  _ \ | ____|   |  _ \ |  _ \ | ____|
-| |\/| | | | | ||  _|     | |_) || | | ||  _|
-| |  | | | |_| || |___ _  |  _ < | |_| || |___
-|_|  |_| |____/ |_____(_) |_| \_\|____/ |_____|
+
+ __  __ _____ _____     _____ ____  _   _ _____ ____
+|  \/  | ____|_   _|   | ____|  _ \| | | | ____|  _ \
+| |\/| |  _|   | |_____|  _| | |_) | | | |  _| | | | |
+| |  | | |___  | |_____| |___|  _ <| |_| | |___| |_| |
+|_|  |_|_____| |_|     |_____|_| \_\\___/|_____|____/
 
 
 # 🍽️ MCP Restaurant Ordering API Server
@@ -49,7 +50,7 @@ Ideal for integration with any MCP server.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/restaurant-mcp-server.git
+git clone https://github.com/sachnaror/restaurant-mcp-server.git
 cd restaurant-mcp-server
 
 # 2. Setup environment
@@ -118,7 +119,9 @@ Base URL: `http://localhost:8000/api/`
 
 ## 📸 Screenshots
 
+<img src="screenshots/11.png" width="600" height="600"/>
 
+<img src="screenshots/12.png" width="600" height="600"/>
 
 ---
 
