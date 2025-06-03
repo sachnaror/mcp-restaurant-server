@@ -25,8 +25,11 @@ We call this an **MCP server** because it follows the **Model-Context-Protocol**
 Think of it like a food court AI assistant:
 
 🍔 **Model** = What's on the menu
+
 ⏰ **Context** = What's trending now
+
 📡 **Protocol** = How it communicates with you (API)
+
 
 This makes it ideal for plugging into larger AI/automation pipelines where structured data, temporal context, and clean APIs matter.
 
@@ -54,6 +57,7 @@ This makes it ideal for plugging into larger AI/automation pipelines where struc
 │   │   ├── settings.py
 │   │   ├── urls.py
 │   │   └── wsgi.py
+
 ```
 
 ---
