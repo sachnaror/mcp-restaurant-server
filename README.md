@@ -37,6 +37,8 @@ This makes it ideal for plugging into larger AI/automation pipelines where struc
 
 ## 📁 Project Directory
 
+
+
 ```
 ├── mcp_server/
 │   ├── requirements.txt
@@ -59,8 +61,6 @@ This makes it ideal for plugging into larger AI/automation pipelines where struc
 │   │   └── wsgi.py
 
 ```
-
----
 
 ## 🚀 Quickstart
 
